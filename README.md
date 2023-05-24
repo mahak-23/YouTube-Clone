@@ -6,6 +6,9 @@ This application  allow users to:
 2. Click on a thumbnail to play the video.
 3. See basic information about the video such as the creator, title and description.
 
+the design is responsive so it works on various screen sizes and devices.
+
+
 
 It has used the videos API in a paginated manner. 
 (Read this to know more about API pagination - https://nordicapis.com/everything-you-need-to-know-about-api-pagination/) 
